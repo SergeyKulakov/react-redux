@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.btn-xs, .btn-group-xs > .btn {
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
